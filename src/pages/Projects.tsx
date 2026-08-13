@@ -83,7 +83,7 @@ const Projects = () => {
     {
       title: "Rafikii Orphanage Support",
       image: foodImage,
-      gallery: [raf1, raf2, raf3, raf4, raf5, raf6, raf7, raf8],
+      gallery: [raf2, raf2, raf3, raf4, raf5, raf6, raf7, raf8],
       description:
         "Providing nutritious meals and food packages to ensure no child goes hungry. We distribute over 1,000 meals monthly to orphanages and vulnerable children in our community.",
       impact: "10,000+ meals donated",
