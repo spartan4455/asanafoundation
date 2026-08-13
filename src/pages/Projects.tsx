@@ -15,7 +15,7 @@ import gallery4 from "@/assets/gallery4.jpg";
 import gallery5 from "@/assets/gallery5.jpg";
 import gallery6 from "@/assets/gallery6.jpg";
 
-import raf1 from "@/assets/raf1.jpg";
+
 import raf2 from "@/assets/raf2.jpg";
 import raf3 from "@/assets/raf3.jpg";
 import raf4 from "@/assets/raf4.jpg";
