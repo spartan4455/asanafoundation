@@ -23,14 +23,16 @@ import raf6 from "@/assets/RAF6.jpg";
 import raf7 from "@/assets/RAF7.jpg";
 import raf8 from "@/assets/RAF8.jpg";
 
-import ed1 from "@/assets/ED1.jpg";
-import ed2 from "@/assets/ED2.jpg";
-import ed3 from "@/assets/ED3.jpg";
-import ed4 from "@/assets/ED4.jpg";
-import ed5 from "@/assets/ED5.jpg";
-import ed6 from "@/assets/ED6.jpg";
-import ed7 from "@/assets/ED7.jpg";
-import ed8 from "@/assets/ED8.jpg";
+
+
+import ed1 from "../assets/ED1.JPG";
+import ed2 from "../assets/ED2.JPG";
+import ed3 from "../assets/ED3.JPG";
+import ed4 from "../assets/ED4.JPG";
+import ed5 from "../assets/ED5.JPG";
+import ed6 from "../assets/ED6.JPG";
+import ed7 from "../assets/ED7.JPG";
+import ed8 from "../assets/ED8.JPG";
 
 import mu1 from "@/assets/MU1.jpg";
 import mu2 from "@/assets/MU2.jpg";
