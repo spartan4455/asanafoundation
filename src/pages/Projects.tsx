@@ -15,9 +15,8 @@ import gallery4 from "@/assets/gallery4.jpg";
 import gallery5 from "@/assets/gallery5.jpg";
 import gallery6 from "@/assets/gallery6.jpg";
 
-
 import raf2 from "@/assets/RAF2.jpg";
-import raf3 from "@/assets/RAF2.jpg";
+import raf3 from "@/assets/RAF3.jpg";
 import raf4 from "@/assets/RAF4.jpg";
 import raf5 from "@/assets/RAF5.jpg";
 import raf6 from "@/assets/RAF6.jpg";
@@ -83,7 +82,7 @@ const Projects = () => {
     {
       title: "Rafikii Orphanage Support",
       image: foodImage,
-      gallery: [raf2, raf2, raf3, raf4, raf5, raf6, raf7, raf8],
+      gallery: [raf2, raf3, raf4, raf5, raf6, raf7, raf8],
       description:
         "Providing nutritious meals and food packages to ensure no child goes hungry. We distribute over 1,000 meals monthly to orphanages and vulnerable children in our community.",
       impact: "10,000+ meals donated",
